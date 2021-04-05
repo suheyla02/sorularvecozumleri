@@ -1,4 +1,4 @@
-package Java_Extra;
+package java_extra01;
 
 public class Soru03 {
 
